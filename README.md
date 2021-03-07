@@ -3,5 +3,3 @@
 - Springboot、Mybatis、Websocket、Vue
 ##### 2、主要功能
 - 加入聊天室的用户实现群聊功能
-##### 3、部分页面展示
-![聊天页面](./chat.jpg "聊天页面")
